@@ -1,0 +1,50 @@
+
+.nav{
+    width: 100%; 
+   
+    
+}
+.navi-container{
+    display: flex;
+    flex-direction: row;
+    width :100%;
+    margin: 0, auto;
+    padding: 0;
+    background-color: white;
+    position: fixed;
+    top:0;
+    justify-content: center;
+    box-shadow: 0px 0px 5px 5px; 
+}
+
+.navi-item{
+    padding: 15px;
+    cursor: pointer;
+    
+}
+
+.navi-item:hover{
+    background: rgb(149, 149, 149);
+    
+}
+a {
+    text-align: center;    
+    color: grey;
+    
+}
+ a:hover{
+    color: white; 
+   
+}
+.container-image{
+    width: 100%;
+    margin-top: 50px;
+    
+}
+.image{ 
+    width: 860px;
+    margin: 0 auto;
+}
+.page2{
+    background-color: bisque;
+}
